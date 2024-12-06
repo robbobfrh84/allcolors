@@ -412,3 +412,33 @@ h2 {
     padding: 0px;
   }
 }
+
+#footer {
+  font-family: Avenir;
+  width: 475px;
+  background-color: powderblue;
+  padding: 20px;
+  box-shadow: 0px 0px 4px rgba(0,0,0,1);
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 50px;
+  border-radius: 10px;
+}
+#footer div {
+  text-align: center;
+}
+#footer .by {
+  font-size: 16px;
+  padding-bottom: 5px;
+}
+#footer .author {
+  font-family: Avenir;
+  font-size: 28px;
+  font-weight: 600;
+  letter-spacing: 1.75px;
+}
+#footer .about {
+  padding-bottom: 5px;
+
+}
+
